@@ -6,5 +6,8 @@ roti
 halwa
 
 chicken
+
+pizza 
+salad
  
 finished dinner
