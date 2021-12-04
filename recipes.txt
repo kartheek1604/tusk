@@ -6,3 +6,6 @@ roti
 halwa
 
 chicken
+
+pizza 
+salad
